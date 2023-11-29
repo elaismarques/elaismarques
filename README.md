@@ -1,4 +1,4 @@
-## Olá!! 👩🏾‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Elaís+Marques.;Estudo+Desenvolvimento+Web+FULLSTACK.;Seja+Bem+Vindo+ao+meu+GitHub)](https://git.io/typing-svg)
 
 #### Hard Skills:
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
